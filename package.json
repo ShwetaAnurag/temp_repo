@@ -1,7 +1,6 @@
 {
-  "name": "node-tutorial",
+  "name": "tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "bootstrap": "^5.1.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShwetaAnurag/temp_repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShwetaAnurag/temp_repo/issues"
+  },
+  "homepage": "https://github.com/ShwetaAnurag/temp_repo#readme",
+  "description": ""
 }
